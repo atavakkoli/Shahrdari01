@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="اطلاع رسانی" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="شهرداری" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="خدمات الکترونیک" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="مهمان دماوند" />
+        <item
+            android:id="@+id/nav_khadamat"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="خدمات الکترونیک" />
+        <item
+            android:id="@+id/nav_tour_tasviri"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="تور تصویری" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="اخبار" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="راهنما" />
+    </group>
+
+    <item android:title="ارتباط با ما">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="اشتراک گذاری" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="ارسال" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:circle="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_akhbar_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_akhbar"
+        circle:name="@string/akhbar" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_etelaresani_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_etelaresani"
+        circle:name="@string/etelaresani" />
+
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_khadamatelectronic_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_khadamatelectronic"
+        circle:name="@string/khadamtelectronic" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_rahnama_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:src="@drawable/ic_rahnama"
+        circle:name="@string/rahnama" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_mihmandamavand_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_mihmandamavand"
+        circle:name="@string/mihmanedamavand" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_shahrdari_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_shahrdari"
+        circle:name="@string/shahrdari" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_khorouj_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_khorouj"
+        circle:name="@string/khorouj" />
+
+    <com.szugyi.circlemenu.view.CircleImageView
+        android:id="@+id/main_tourtasviri_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/circle"
+        android:elevation="2dp"
+        android:src="@drawable/ic_tourtasviri"
+        circle:name="@string/tourtasviri" />
+
+</merge>

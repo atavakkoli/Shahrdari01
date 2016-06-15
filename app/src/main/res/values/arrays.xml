@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mihmandamavand_list">
+        <item>@string/khadamat_eghamati</item>
+        <item>@string/panorama_photos</item>
+        <item>@string/khadamt_ertebati</item>
+        <item>@string/jazebehhaye_gardeshgari</item>
+        <item>@string/ketabe_karbordi</item>
+        <item>@string/setad_eskan_norouzi</item>
+    </string-array>
+
+    <string-array name="etelaresani_list">
+        <item>@string/taqvim</item>
+        <item>@string/ab_hava</item>
+        <item>@string/oghatesharii</item>
+    </string-array>
+
+    <string-array name="rahnama_list">
+        <item>@string/darbarh_shahrdari</item>
+        <item>@string/projects</item>
+        <item>@string/dastresi_be_site</item>
+        <item>@string/rahnamaye_narm_afzar</item>
+    </string-array>
+	
+    <string-array name="akhbar_list">
+        <item>@string/akhbar_shahr</item>
+        <item>@string/akbar_shahrdari</item>
+        <item>@string/shahrvand_khabarnegar</item>
+    </string-array>
+
+    <string-array name="tour_tasviri_list">
+        <item>@string/gardesh_tafrih</item>
+        <item>@string/gozari_dar_shahr</item>
+        <item>@string/amaken_tarikhi</item>
+        <item>@string/farhangi_mazhabi</item>
+    </string-array>
+
+	
+    
+</resources>

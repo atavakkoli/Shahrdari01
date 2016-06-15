@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">شهرداری دماوند</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="center_picture">Shahrdari Damavand</string>
+    <!-- Menu names -->
+    <string name="business_card">Business Card</string>
+    <string name="akhbar">اخبار</string>
+    <string name="etelaresani">اطلاع رسانی</string>
+    <string name="facebook">Facebook</string>
+    <string name="rahnama">راهنما</string>
+    <string name="khadamtelectronic">خدمات الکترونیک</string>
+    <string name="mihmanedamavand">میهمان دماوند</string>
+    <string name="shahrdari">شهرداری</string>
+    <string name="khorouj">خروج</string>
+    <string name="tourtasviri">تورتصویری</string>
+    <string name="voice_search">Voice Search</string>
+
+    <!-- Toasts -->
+    <string name="start_app">Starting application: %s</string>
+    <string name="center_click">Center has been clicked</string>
+    <string name="title_activity_mihman_damavand">میهمان دماوند</string>
+
+
+    <!-- MihmaneDamavand List Items -->
+    <string name="khadamat_eghamati">خدمات اقامتی</string>
+    <string name="panorama_photos">نمایش عکس های پانوراما</string>
+    <string name="khadamt_ertebati">خدمات ارتباطی</string>
+    <string name="jazebehhaye_gardeshgari">جاذبه‌های گردشگری</string>
+    <string name="ketabe_karbordi">کتاب کاربردی گردشگری</string>
+    <string name="setad_eskan_norouzi">ستاد اسکان نوروزی</string>
+
+	<!-- Etela_resani List Items -->
+    <string name="taqvim">تقویم</string>
+    <string name="ab_hava">آب و هوا</string>
+    <string name="oghatesharii">اوقات شرعی</string>
+
+    <!-- Akhbar List Items -->
+    <string name="akhbar_shahr">اخبار شهر</string>
+    <string name="akbar_shahrdari">اخبار شهرداری</string>
+    <string name="shahrvand_khabarnegar">شهروند خبرنگار</string>
+	
+	<!-- Khadamt_electronic List Items --> 
+	<string name="samaneh137">سامانه 137</string>
+	<string name="tarh_tafsili">طرح تفصیلی شهر دماوند</string>
+	<string name="samaneh_nosazi">سامانه نوسازی پسماند</string>
+
+	<!-- Rahnama List Items --> 
+	<string name="darbarh_shahrdari">درباره شهرداری</string>
+	<string name="projects">پروژه‌های منتخب</string>
+	<string name="dastresi_be_site">دسترسی به سایت</string>
+	<string name="rahnamaye_narm_afzar">راهنمای نرم‌افزار</string>
+	
+	<!-- Tour_Tasviri List Items --> 
+	<string name="gardesh_tafrih">گردش و تفریح</string> 
+	<string name="gozari_dar_shahr">گذری در شهر</string>
+	<string name="amaken_tarikhi">اماکن تاریخی</string>
+	<string name="farhangi_mazhabi">فرهنگی و مذهبی</string>
+
+
+    <!-- Shahrdari List Items -->
+    <string name="shahrdari_item01">شهرداری 1</string>
+    <string name="shahrdari_item02">شهرداری 2</string>
+    <string name="shahrdari_item03">شهرداری 3</string>
+
+</resources>
+

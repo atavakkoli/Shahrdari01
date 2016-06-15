@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="mihmandamavand">#ff4a4d</color>
+    <color name="akhbar">#40daf2</color>
+    <color name="tourtasviri">#515051</color>
+    <color name="etelaresani">#ded373</color>
+    <color name="khadamatelectronic">#f27390</color>
+    <color name="rahnama">#6585fa</color>
+    <color name="shahrdari">#7bfa76</color>
+</resources>
