@@ -276,13 +276,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
             case R.id.main_mihmandamavand_image:
                 // Handle profile selection
-                strList = new String[6];
+                strList = new String[7];
                 strList[0] = getResources().getString(R.string.khadamat_eghamati);
                 strList[1] = getResources().getString(R.string.panorama_photos);
                 strList[2] = getResources().getString(R.string.khadamt_ertebati);
                 strList[3] = getResources().getString(R.string.jazebehhaye_gardeshgari);
                 strList[4] = getResources().getString(R.string.ketabe_karbordi);
                 strList[5] = getResources().getString(R.string.setad_eskan_norouzi);
+                strList[6] = getResources().getString(R.string.city_map);
 
                 strTitle = getResources().getString(R.string.mihmanedamavand);
 
