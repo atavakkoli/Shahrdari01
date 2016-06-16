@@ -32,11 +32,13 @@
     <string name="jazebehhaye_gardeshgari">جاذبه‌های گردشگری</string>
     <string name="ketabe_karbordi">کتاب کاربردی گردشگری</string>
     <string name="setad_eskan_norouzi">ستاد اسکان نوروزی</string>
+    <string name="city_map">نقشه شهر</string>
 
 	<!-- Etela_resani List Items -->
     <string name="taqvim">تقویم</string>
     <string name="ab_hava">آب و هوا</string>
     <string name="oghatesharii">اوقات شرعی</string>
+    
 
     <!-- Akhbar List Items -->
     <string name="akhbar_shahr">اخبار شهر</string>
@@ -62,8 +64,8 @@
 
 
     <!-- Shahrdari List Items -->
-    <string name="shahrdari_item01">شهرداری 1</string>
-    <string name="shahrdari_item02">شهرداری 2</string>
+    <string name="shahrdari_item01">شهردار</string>
+    <string name="shahrdari_item02">شورای شهر</string>
     <string name="shahrdari_item03">شهرداری 3</string>
 
 </resources>
