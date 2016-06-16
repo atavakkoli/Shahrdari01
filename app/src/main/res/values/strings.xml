@@ -62,11 +62,34 @@
 	<string name="amaken_tarikhi">اماکن تاریخی</string>
 	<string name="farhangi_mazhabi">فرهنگی و مذهبی</string>
 
-
     <!-- Shahrdari List Items -->
     <string name="shahrdari_item01">شهردار</string>
     <string name="shahrdari_item02">شورای شهر</string>
-    <string name="shahrdari_item03">شهرداری 3</string>
+    <string name="shahrdari_item03">شهرداران سابق</string>
+	
+	<!-- Amaken_Tarikhi List Items -->
+    <string name="mosque">مسجد جامع عتیق دماوند</string>
+    <string name="emamzadeh">امام زاده عبدالله و عبیدالله</string>
+    <string name="shebli">برج یادمان شبلی</string>
+	<string name="hammam">حمام تاریخی محله درویش</string>
+	
+	<!-- Amaken_Ghardeshgari List Items -->
+    <string name="cheshme_ala">چشمه اعلا دماوند</string>
+    <string name="qar_roodafsahn">غار رودافشان</string>
+    <string name="daryache_tar">دریاچه تار و هویر</string>
+	<string name="qolle_damavand">قله دماوند</string>
+	<string name="tizab">تیزاب دماوند</string>
+	
+	<!-- Azaye_Shoraye_Shahr List Items -->
+    <string name="">(رییس)غلامرضا ذبیحی</string>
+	<string name="">(نایب رییس)مصطفی آقایی</string>
+    <string name="">علی نوروزقزوینی</string>
+    <string name="">حسین بختیاری</string>
+    <string name="">شاهرخ حاجی</string>
+    <string name="">مجید خدابخش</string>
+    <string name="">ابوذر نادری</string>
+    
+	
 
 </resources>
 
