@@ -12,14 +12,14 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         tools:context="com.example.at.shahrdari01.MainActivity"
         tools:showIn="@layout/app_bar_main"
-        android:background="@mipmap/background">
+        android:background="@mipmap/background" >
 
     <ImageView
             android:layout_width="fill_parent"
             android:layout_height="120dp"
             android:text="text"
             android:id="@+id/logo"
-            android:src="@mipmap/logo35percent"
+            android:src="@mipmap/shahrdarigenaveh"
             android:layout_alignParentRight="false"
             android:layout_alignParentEnd="false"
             android:layout_alignParentStart="false" />
@@ -28,14 +28,14 @@
             android:id="@+id/circle_layout"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/bg"
+
             android:layout_gravity="center_horizontal"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/logo">
             <include layout="@layout/menu_items" />
         </com.szugyi.circlemenu.view.CircleLayout>
-
+    <!--            android:background="@drawable/bg" -->
 
     <TextView
         android:id="@+id/selected_textView"

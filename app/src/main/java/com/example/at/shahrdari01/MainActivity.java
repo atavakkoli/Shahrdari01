@@ -121,10 +121,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             // Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
-        } else if (id == R.id.nav_slideshow) {
-
-        } else if (id == R.id.nav_manage) {
-
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
@@ -160,9 +156,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.main_khadamatelectronic_image:
                 // Handle mail selection
                 break;
-            case R.id.main_mihmandamavand_image:
+//            case R.id.main_mihmandamavand_image:
                 // Handle profile selection
-                break;
+//                break;
             case R.id.main_shahrdari_image:
                 // Handle tap selection
                 break;
@@ -192,9 +188,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.main_khadamatelectronic_image:
                 // Handle mail selection
                 break;
-            case R.id.main_mihmandamavand_image:
+//            case R.id.main_mihmandamavand_image:
                 // Handle profile selection
-                break;
+//                break;
             case R.id.main_shahrdari_image:
                 // Handle tap selection
                 break;
@@ -274,7 +270,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
                 iColor = getResources().getColor(R.color.khadamatelectronic);
                 break;
-            case R.id.main_mihmandamavand_image:
+/*            case R.id.main_mihmandamavand_image:
                 // Handle profile selection
                 strList = new String[7];
                 strList[0] = getResources().getString(R.string.khadamat_eghamati);
@@ -289,6 +285,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
                 iColor = getResources().getColor(R.color.mihmandamavand);
                 break;
+*/
             case R.id.main_shahrdari_image:
                 // Handle tap selection
                 strList = new String[2];

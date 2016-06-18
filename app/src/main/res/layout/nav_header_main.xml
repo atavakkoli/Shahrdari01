@@ -17,20 +17,20 @@
         android:layout_width="69dp"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:src="@drawable/logo4"
+        android:src="@mipmap/shahrdarigenaveh"
         android:layout_weight="0.65" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="شهرداری دماوند"
+        android:text="@string/app_name"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="damavand.ir" />
+        android:text="@string/website" />
 
 </LinearLayout>

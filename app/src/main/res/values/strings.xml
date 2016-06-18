@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">شهرداری دماوند</string>
+    <string name="app_name">شهرداری گناوه</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -47,7 +47,7 @@
 	
 	<!-- Khadamt_electronic List Items --> 
 	<string name="samaneh137">سامانه 137</string>
-	<string name="tarh_tafsili">طرح تفصیلی شهر دماوند</string>
+	<string name="tarh_tafsili">طرح تفصیلی شهر </string>
 	<string name="samaneh_nosazi">سامانه نوسازی پسماند</string>
 
 	<!-- Rahnama List Items --> 
@@ -81,15 +81,16 @@
 	<string name="tizab">تیزاب دماوند</string>
 	
 	<!-- Azaye_Shoraye_Shahr List Items -->
-    <string name="">(رییس)غلامرضا ذبیحی</string>
-	<string name="">(نایب رییس)مصطفی آقایی</string>
-    <string name="">علی نوروزقزوینی</string>
-    <string name="">حسین بختیاری</string>
-    <string name="">شاهرخ حاجی</string>
-    <string name="">مجید خدابخش</string>
-    <string name="">ابوذر نادری</string>
-    
-	
+    <string name="zabihi">(رییس)غلامرضا ذبیحی</string>
+	<string name="aaghaii">(نایب رییس)مصطفی آقایی</string>
+    <string name="norouz_qazvini">علی نوروزقزوینی</string>
+    <string name="bakhtiari">حسین بختیاری</string>
+    <string name="haji">شاهرخ حاجی</string>
+    <string name="khodabakhsh">مجید خدابخش</string>
+    <string name="naderi">ابوذر نادری</string>
+
+    <string name="website">genavehcity.ir</string>
+
 
 </resources>
 
