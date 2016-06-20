@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_ea0c08de7589dc165100696cf9bf3ded05f2b6fe.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\Shahrdari01\circlemenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b24f0b7da07d6accaf7ee832abfdf108d9e82dd">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\Shahrdari01-circlemenu-unspecified_a63f10d2edf1e929036045309a77e7fef37765a7.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_b32e2460033491ac26d70c3b49d54ff082b81c18.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_2ce0467d8412bf90346e652258c6175a23e4524d.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_ac3bdde0dafae395d36fe2b64d7910a3d69f1576.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_9f54e38fa2771c31187f624d3b130979a02ec341.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_f62008070f853f7c47b84b9a2923131cb54111e2.jar" />
+    </item>
+    <item
+        jar="C:\Android\Projects\Shahrdari01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_d00756feb1913beae012f01f075595e8dd51985b.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Android\Projects\Shahrdari01\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a56e9dd4c90bf7079c075061d78cff57c1577e98.jar" />
+    </item>
+
+</items>

@@ -19,7 +19,7 @@
             android:layout_height="120dp"
             android:text="text"
             android:id="@+id/logo"
-            android:src="@mipmap/shahrdarigenaveh"
+            android:src="@mipmap/ic_genaveh"
             android:layout_alignParentRight="false"
             android:layout_alignParentEnd="false"
             android:layout_alignParentStart="false" />

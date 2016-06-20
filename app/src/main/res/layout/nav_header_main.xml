@@ -17,7 +17,7 @@
         android:layout_width="69dp"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:src="@mipmap/shahrdarigenaveh"
+        android:src="@mipmap/ic_genaveh"
         android:layout_weight="0.65" />
 
     <TextView
